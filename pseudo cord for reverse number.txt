@@ -1,0 +1,12 @@
+input: number N
+output: reverse number
+procedure:
+step 1: start
+step 2: read the number
+step 3: declare the variable revnum=0 and remainder
+step 4: repeat the step-6 & step-7 till condition satisfies N>0
+step 5: remainder = N % 10
+step 6: update the N value 
+          revnum = (revnum * 10) + remainder
+          num/10
+step 7: end procedure
