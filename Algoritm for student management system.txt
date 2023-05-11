@@ -1,0 +1,11 @@
+Algoritm for student management system in student point of view:
+step-1: Start
+step-2: Enter the login credentials
+step-3: Read the credentials 
+step-4: if credentials = correct
+         yes display valid
+         no display invalid
+step-5: if credentials are valid 
+           the student can access to their profile,attendance,grades etc
+step-6: logout when finish
+step-7: stop
